@@ -1,0 +1,26 @@
+{
+  "name": "sequelize-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrwy/sequelize-cache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrwy/sequelize-cache/issues"
+  },
+  "homepage": "https://github.com/jerrwy/sequelize-cache#readme",
+  "dependencies": {
+    "circular-json": "^0.3.1",
+    "crypto": "^0.0.3",
+    "mysql": "^2.13.0",
+    "redis": "^2.7.1",
+    "sequelize": "^3.30.4"
+  }
+}
